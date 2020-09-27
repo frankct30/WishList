@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { DestinoViaje } from '/../../../models/destino-viaje.models';
+import { DestinoViaje } from '../../../models/destino-viaje.models';
 import { NgModel } from '@angular/forms';
 
 @Component({
